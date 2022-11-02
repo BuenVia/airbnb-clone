@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.navbar {
+  display: flex;
+  padding: 2rem;
+  border-bottom: none;
+  box-shadow: 1px 1px 12px rgb(214, 214, 214);
+}
+
+.navbar--logo {
+  width: 150px;
+}
